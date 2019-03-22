@@ -2,7 +2,7 @@
 
 An Applescript that reloads XD plugins and then runs a plugin.
 
-# Usage
+## Usage
 
 Command line:
 
@@ -21,7 +21,7 @@ require("child_process").exec(cmd, function(error, stdout, stderr) {
 
 Doing something like this, you can achieve an "autoreload" effect for your plugin.
 
-# Praise for xd-osa
+## Praise for xd-osa
 
 > We’re getting close to resurrecting animals like the woolly mammoth—but should we?
 >
