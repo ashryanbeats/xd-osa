@@ -6,5 +6,4 @@ on run argv
 			click menu item (item 1 of argv) of menu 1 of menu bar item "Plugins"
 		end tell
 	end tell
-	return argv
 end run
